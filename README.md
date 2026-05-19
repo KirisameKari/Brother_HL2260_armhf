@@ -4,7 +4,7 @@ This repositorie includes cupswrapper and lpr, tested successfully on Ubuntu 20.
 
 setup by following steps:
 ```bash
-dpkg -i hl2260cupswrapper-3.2.0-1.armgh.deb
+dpkg -i hl2260cupswrapper-3.2.0-1.armhf.deb
 dpkg -i hl2260lpr-3.2.0-1.armhf.deb
 ```
 After installation, you can use the printer as usual. If you encounter any issues, please check the printer settings and ensure that the correct driver is selected.
